@@ -6,6 +6,7 @@ import AdminLayout from '@admin/.';
 import HomePage from '@client/home/home';
 import Login from '@client/login/login';
 import DashBoard from '@admin/dashboard/dashboard';
+
 interface IRoute {
     exact: boolean;
     path: string;

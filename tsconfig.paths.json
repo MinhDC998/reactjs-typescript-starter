@@ -7,6 +7,10 @@
             "@routes/*": ["src/app/routers/*"],
             "@assets/*": ["./src/public/assets"],
             "@client/*": ["src/app/components/client/*"],
+            "@api/*": ["src/api/*"],
+            "@utils/*": ["src/app/utils/*"],
+            "@type/*": ["src/app/types/*"],
+            "@services/*": ["src/app/services/*"],
             "@admin/*": ["src/app/components/admin/*"]
          }
     }
